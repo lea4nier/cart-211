@@ -5,7 +5,7 @@ body {
     
 }
 h1{
-    color: #980438;
+    color: #46ebf7;
     font-family: Georgia, 'Times New Roman', Times, serif;
     
     
@@ -20,6 +20,20 @@ h3 {
     
 }
 
+h4{
+    color: #f4afff;
+    text-align: center;
+    font-size: 50px;
+    border: #f4afff;
+}
+
 p { 
     text-align: justify;
+}
+
+em {
+    text-decoration: dotted;
+    font-style: italic;
+    display: block;
+    border: 10px solid #f4afff;
 }
