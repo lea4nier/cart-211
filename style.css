@@ -12,6 +12,18 @@ h1{
     
 }
 
+a {
+    color: #f68ebf;
+}
+
+a:active {
+    color: ghostwhite;
+}
+
+a.hover {
+    color: #00fbff;
+}
+
 h2 {
     color: #f68ebf;
 }
@@ -50,7 +62,8 @@ em {
     width: 800px;
     margin: 20px;
     padding: 20px;
-    border-width: 10px;
+    border-width: 30px;
     border-color: #00fbff;
-
+    border-radius: 30px;
+    margin: auto;
 }
