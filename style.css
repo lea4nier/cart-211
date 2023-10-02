@@ -1,12 +1,12 @@
 body {
     background-color: #f9d6e874;
     background-image: url("images/stars.gif");
-    color: #000000;
+    color: #00fbff;
     font-size: 24px; 
     
 }
 h1{
-    color: #46ebf7;
+    color: #f4afff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     
     
@@ -37,4 +37,20 @@ em {
     font-style: italic;
     display: block;
     border: 10px solid #f4afff;
+}
+
+.credit {
+    background-color: #f4afff;
+    width: 350px;
+    margin: auto;
+}
+
+.box{
+    background-color: #f4afff;
+    width: 800px;
+    margin: 20px;
+    padding: 20px;
+    border-width: 10px;
+    border-color: #00fbff;
+
 }
