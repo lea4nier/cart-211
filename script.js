@@ -4,3 +4,4 @@ function myFunction(){
     document.getElementById("theParagraph").style.color = "#11f5f1"; 
     document.getElementById("theParagraph").style.backgroundColor = "#ff55a3"; 
 }           
+//
